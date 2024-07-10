@@ -1,0 +1,55 @@
+name: PANameColors
+version: 1.0
+main: com.of21.panamecolors.PANameColors
+api-version: 1.20
+commands:
+  namecolor:
+    description: Changes the color of your name.
+    aliases: [nc]
+    usage: /<command> [color]
+permissions:
+  namecolor.all:
+    description: Allows the use of all colors.
+    default: false
+  namecolor.dark_green:
+    description: Allows the use of the color Dark Green.
+    default: false
+  namecolor.dark_aqua:
+    description: Allows the use of the color Dark Aqua.
+    default: false
+  namecolor.dark_red:
+    description: Allows the use of the color Dark Red.
+    default: false
+  namecolor.dark_purple:
+    description: Allows the use of the color Dark Purple.
+    default: false
+  namecolor.gold:
+    description: Allows the use of the color Gold.
+    default: false
+  namecolor.gray:
+    description: Allows the use of the color Gray.
+    default: false
+  namecolor.dark_gray:
+    description: Allows the use of the color Dark Gray.
+    default: false
+  namecolor.blue:
+    description: Allows the use of the color Blue.
+    default: false
+  namecolor.green:
+    description: Allows the use of the color Green.
+    default: false
+  namecolor.aqua:
+    description: Allows the use of the color Aqua.
+    default: false
+  namecolor.red:
+    description: Allows the use of the color Red.
+    default: false
+  namecolor.light_purple:
+    description: Allows the use of the color Light Purple.
+    default: false
+  namecolor.yellow:
+    description: Allows the use of the color Yellow.
+    default: false
+  namecolor.white:
+    description: Allows the use of the color White.
+    default: false
